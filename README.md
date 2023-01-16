@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋 My name is Mateusz and i am learning about data.
 
-<!--
-**Mateusz-Matejko/Mateusz-Matejko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mateusz from Poland, i really enjoy working with data and the power that comes with it. My goal is to change my industry to data related in 2023 and to become Data Scientist in future. 
 
-Here are some ideas to get you started:
+#### Skills: 
+##### 🐍 Python
+##### 📊 Tableau
+##### 🪧 SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mateusz-Matejko&theme=light&background=FFFFFF)](https://git.io/streak-stats)
+
+
+<br/>
+📚 Education curently: master's degree of computer science at WSB in Gdańsk.
+<br/>
+🔭 I’m currently working on My own Google Data Analyst Proffesionall Certificate. 4/8 Courses completed so far! 
+<br /> 
+🌱 I’m currently learning SQL
+<br />
+📫 How to reach me: matejko.mateusz7456@gmail.com or via LinkedIN
+<br />
+⚡ Fun fact: Cows moo with regional accents.
+<br />
+👀 Something interesitng about me: I've found strategy to beat the Casion roulette. You can find code in this Small-Projects repository. 
