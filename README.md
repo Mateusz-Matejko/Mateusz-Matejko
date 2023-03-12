@@ -12,9 +12,9 @@ I'm Mateusz from Poland, i really enjoy working with data and the power that com
 
 
 <br/>
-📚 Education curently: master's degree of computer science at WSB in Gdańsk.
+📚 Education curently: master's degree of computer science at WSB in Gdańsk. Just completed a Google Data Analytics Proffesionall Certificate. 
 <br/>
-🔭 I’m currently working on My own Google Data Analyst Proffesionall Certificate. 4/8 Courses completed so far! 
+🔭 I'm participating in Python Data Science bootcamp.  
 <br /> 
 🌱 I’m currently learning SQL
 <br />
