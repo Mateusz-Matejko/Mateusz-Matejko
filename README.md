@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🎉
 
-I'm Matusz, Computer Science student, Junior Support Data Enigneer (Intern) at Bitpeak and aspiring Data Scientist. 🤓  I hold a Google Data Analytics Certificate and a UCDavis SQL for Data Science Certificate. 🎓 If you're interested in collaborating or have any questions about my projects, feel free to reach out to me at mateusz.matejkop@gmail.com. 📩
+I'm Matusz, Computer Science student, Junior Support Data Enigneer at Bitpeak and aspiring Data Scientist. 🤓  I hold a Google Data Analytics Certificate and a UCDavis SQL for Data Science Certificate. 🎓 If you're interested in collaborating or have any questions about my projects, feel free to reach out to me at mateusz.matejkop@gmail.com. 📩
 
 On this platform, you'll find a range of projects, including my main projects: 
 
