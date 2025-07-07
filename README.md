@@ -1,8 +1,15 @@
-# Hi there! 👋
+Hi there! 👋
+Welcome to my GitHub profile!
 
-Welcome to my GitHub profile! 🎉
+I'm Mateusz Matejko, a Master's graduate in Computer Science and Data Engineer at Bitpeak, where I’ve been working for over 2 years. My work focuses on building reliable data pipelines, scalable infrastructure, and clean data workflows.
 
-I'm Matusz, Computer Science student, Junior Support Data Enigneer at Bitpeak and aspiring Data Scientist. 🤓  I hold a Google Data Analytics Certificate and a UCDavis SQL for Data Science Certificate. 🎓 If you're interested in collaborating or have any questions about my projects, feel free to reach out to me at mateusz.matejkop@gmail.com. 📩
+⚙️ I'm especially passionate about Apache Spark and distributed data processing. I enjoy diving deep into complex technologies — once I learn something, I aim to truly master it. I learn fast, and I love challenging problems that require both precision and creativity.
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mateusz-Matejko&theme=light&background=FFFFFF)](https://git.io/streak-stats)
+🛠 My current stack:
+Python & SQL
+
+Apache Spark & Databricks
+
+Azure Cloud
+
+Docker for containerized development
